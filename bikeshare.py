@@ -40,7 +40,7 @@ def get_filters():
             month = month_input.lower()
 
         else:
-            print("Please input the correct name of the month")
+            print("Please input the correct name of the month, thanks")
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     day_input = ''
     while day_input.lower() not in DAY_DATA:
@@ -50,7 +50,7 @@ def get_filters():
             day = day_input.lower()
 
         else:
-            print("Please input the correct name of the day")
+            print("Please input the correct name of the day, thanks")
 
     print('-'*40)
     return city, month, day
