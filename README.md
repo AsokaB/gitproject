@@ -2,7 +2,7 @@
 September 27th 2021
 
 ### Project Title
-Git Project Learning
+Udacity Git Project Learning
 
 ### Description
 This project is purposely made in order to make me more advanced in programming.
